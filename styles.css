@@ -1,0 +1,111 @@
+/* {
+	background-color: cyan;
+} */
+body {
+	background-color: ivory;
+}
+button {
+	font-size: 30px;
+	background-color: antiquewhite;
+}
+
+h1,h2 {
+	color: darkslateblue;
+}
+
+#signup {
+	background-color: cadetblue;
+	color:white;
+}
+span {
+	color:indianred;
+}
+.tag {
+	background-color: red;
+	color: aliceblue;
+	font-size: 16px;
+}
+
+.post a {
+	color: azure;
+}
+
+footer a {
+	color: oldlace;
+}
+
+h2 + button {
+	font-size: 20px;
+}
+
+footer > a {
+	color: crimson;
+}
+
+input[type="password"] {
+	color: greenyellow;
+}
+
+a[href*="google"]{
+	color: magenta;
+}
+
+.post button:hover {
+	background-color:darkred;
+	color:aquamarine;
+}
+
+.post a:hover {
+	text-decoration: underline;
+}
+
+.post button:active {
+	background-color: limegreen;
+}
+
+.post:nth-of-type(2n) {
+	background-color: beige;
+}
+
+h2::first-letter {
+	font-size: 50px;
+}
+
+p::first-line {
+	color: purple;
+}
+
+p::selection {
+	background-color: darksalmon;
+}
+h1,h2 {
+	color: darkolivegreen;
+}
+
+button:hover {
+	background-color: olive;
+	font-size: 10px;
+}
+
+.post button:hover {
+	background-color: red;
+	color:ghostwhite;
+}
+
+button {
+	background-color: magenta;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
